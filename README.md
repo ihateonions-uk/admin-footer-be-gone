@@ -3,8 +3,8 @@ This is a simple wordpress plugin to remove the admin footer from the dashboard.
 
 —- Admin Footer Be Gone Plugin —-
 Author: Joshua George
-Author URL: http://madebycoffee.co.uk
-Plugin URL: http://madebycoffee.co.uk/admin-footer-be-gone
+Author URL: http://ihateonions.uk
+Plugin URL: http://ihateonions.uk/projects/admin-footer-be-gone
 Description: This plugin removes the admin footer from you wordpress admin dashboard.
 Requires at least: 3.4
 Tested up to: 4.3
@@ -30,7 +30,7 @@ This plugin removes the admin footer from you wordpress admin dashboard. You can
 
 —- Frequently Asked Questions —-
 
-Please visit http://madebycoffee.co.uk/admin-footer-be-gone
+Please visit http://ihateonions.uk/projects/admin-footer-be-gone
 Feel free to send me a message regarding any improvements or help you need regarding this plugin.
 
 Many Thanks
